@@ -81,3 +81,6 @@ _Click on the image above to watch the video._
 </div>
 
 <br>
+
+## References🏀
+1. Adobe Stock. (n.d.). Free throw basketball animation video sport activity equipment motion graphic design. Retrieved December 14, 2024, from https://stock.adobe.com/ph/video/free-throw-basketball-animation-video-sport-activity-equipment-motion-graphic-design/750453084
