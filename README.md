@@ -82,6 +82,14 @@ _Click on the image above to watch the video._
 
 <br>
 
+### Clone the Repository and Setup
+
+```bash
+!git clone https://github.com/alexandria08/Comia_Doyugan_Final.git
+%cd opencvTutorial/
+from IPython.display import clear_output
+clear_output()
+```
 
 ## References🏀
 1. Adobe Stock. (n.d.). Free throw basketball animation video sport activity equipment motion graphic design. Retrieved December 14, 2024, from https://stock.adobe.com/ph/video/free-throw-basketball-animation-video-sport-activity-equipment-motion-graphic-design/750453084
