@@ -44,5 +44,27 @@
 
 - **Output Video:** The processed frames are saved in a new video file.
   
-## Conclusion
-## Additional Materials
+## Conclusion🏀
+- **Findings:**
+  - `The code effectively tracks a basketball by detecting its color in the HSV color.`
+
+- **Challenges:**
+  - `Handling varying lighting conditions and ensuring stable tracking when the ball is partially obscured or moving fast.`
+
+- **Outcomes:**
+  - `Successful tracking of the ball across frames, with a continuous path drawn. The video is saved with the tracked trajectory, providing a visual representation of the ball's movement.`
+    
+## Additional Materials🏀
+
+### **How to solve HTM of Articulated manipulator**
+
+
+
+[![Screenshot 2024-04-04 130240]()
+
+_Click on the image above to watch the video._
+
+
+</div>
+
+<br>
