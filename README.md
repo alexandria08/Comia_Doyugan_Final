@@ -21,7 +21,12 @@
   - `Enables applications like sports analytics and automated refereeing.`
   - `Facilitates tracking in dynamic environments, aiding robotics, and video analysis.`
 
-## Abstract
+## Abstract🏀
+- **Objective:** Track a basketball in a video using HSV color space for object detection and motion tracking.
+  
+- **Approach:** Involves converting video frames to HSV color space for effective ball detection, applying color thresholds to isolate the basketball, and using contour detection to track its movement.
+  
+- **Expected Results:** Accurate and real-time tracking of the basketball.
 ## Project Methods
 ## Conclusion
 ## Additional Materials
