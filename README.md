@@ -14,12 +14,10 @@
 </div>
 
 - **Problem:**
-  - `Tracking the ball's movement across frames.`
-  - `Ball's appearance can change due to lighting or background.`
+  - Tracking a ball in a video using HSV (Hue, Saturation, Value) addresses the problem of object detection and tracking in dynamic environments, a core challenge in computer vision. By leveraging color segmentation, HSV tracking isolates the ball based on its unique color properties, making it robust against varying lighting conditions. 
 
 - **Significance:**
-  - `Enables applications like sports analytics and automated refereeing.`
-  - `Facilitates tracking in dynamic environments, aiding robotics, and video analysis.`
+  - Tracking a ball using HSV in video facilitates applications like sports analytics, enabling real-time performance evaluation and automated refereeing for improved accuracy. It also aids robotics and video analysis by enhancing object tracking in dynamic environments, crucial for motion prediction and automation.
 
 ## Abstract🏀
 - **Objective:** Track a basketball in a video using HSV color space for object detection and motion tracking.
