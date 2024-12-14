@@ -56,11 +56,26 @@
     
 ## Additional Materials🏀
 
-### **How to solve HTM of Articulated manipulator**
+<div align="center">
+ 
+### **Basketball Dataset**
+
+[![Video Thumbnail](https://img.youtube.com/vi/mdobMUUWSLQ/0.jpg)](https://www.youtube.com/watch?v=mdobMUUWSLQ)
 
 
+_Click on the image above to watch the video._
 
-[![Screenshot 2024-04-04 130240]()
+
+</div>
+
+<br>
+
+<div align="center">
+ 
+### **Tracked Basketball**
+
+[![Watch the video](https://img.youtube.com/vi/m3v4pw8J-Yo/0.jpg)](https://www.youtube.com/watch?v=m3v4pw8J-Yo)
+
 
 _Click on the image above to watch the video._
 
